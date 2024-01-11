@@ -1,4 +1,4 @@
 class Point:
     # атрибут или свойство
     color = 'red'
-    circle = 2
+    circle = 21
